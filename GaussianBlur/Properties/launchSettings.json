@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GaussianBlur": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "System.Drawing.EnableUnixSupport": true
+    }
+  }
+}

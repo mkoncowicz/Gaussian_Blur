@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLpR55R9gugJDiah8m+sTKgmSEdll9HvNn4sNK7maaR4Wy7a9Uwx+GIfxmtP/O1+TwNalV6Cr6ky+aJ/wcf+Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grazy\\Desktop\\STUDIA\\APL_PROJEKT\\GaussianBlurProject\\GaussianBlur\\GaussianBlur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grazy\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\grazy\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

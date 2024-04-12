@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  GaussianBlurCpp.cpp
+C:\Users\grazy\Desktop\STUDIA\APL_PROJEKT\GaussianBlurProject\GaussianBlurCpp\GaussianBlurCpp.cpp(57,6): warning C4273: "CppGaussianBlur": niespójne powiązanie biblioteki dll
+  (kompilowanie pliku źródłowego „/GaussianBlurCpp.cpp”)
+  C:\Users\grazy\Desktop\STUDIA\APL_PROJEKT\GaussianBlurProject\GaussianBlurCpp\GaussianBlurCpp.h(9,34):
+  zobacz poprzednią definicję „CppGaussianBlur”
+  
+  GaussianBlurCpp.vcxproj -> C:\Users\grazy\Desktop\STUDIA\APL_PROJEKT\GaussianBlurProject\GaussianBlur\bin\Debug\net6.0-windows\GaussianBlurCpp.dll
